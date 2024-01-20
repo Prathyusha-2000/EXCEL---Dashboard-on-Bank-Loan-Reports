@@ -1,4 +1,4 @@
-# EXCEL---Dashboard-on-Bank-Loan-Reports
+# EXCEL---Dashboard-on-Bank-Loans-Reports
 # Dashboard 1: 
     Focus: Key metrics overview like total loans, funded amount, Performance by frade, distribution by purpose, and status.
     Strengths: Concise summary, Quick grasp of overall loan health.
